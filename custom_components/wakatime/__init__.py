@@ -1,0 +1,1 @@
+"""The Wakatime.com Component."""

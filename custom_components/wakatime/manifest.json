@@ -1,0 +1,8 @@
+{
+  "domain": "wakatime",
+  "name": "Wakatime",
+  "documentation": "https://github.com/hudsonbrendon/sensor.wakatime",
+  "dependencies": [],
+  "codeowners": ["@hudsonbrendon"],
+  "requirements": []
+}
